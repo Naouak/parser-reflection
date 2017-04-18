@@ -1,5 +1,5 @@
 {
-  "name": "dg/parser-reflection",
+  "name": "goaop/parser-reflection",
   "description": "Provides reflection information, based on raw source",
   "license": "MIT",
   "authors": [
